@@ -43,14 +43,14 @@ Other things that I probably would have devoted some time to if I had more of th
 
 I am planning to continue contributing to FLOSS even if this attempt fails, but if it succeeds — it will help me to stop doing things that I like less (and which bring some stress to my life) and start doing more things that I like more (i.e. FLOSS activity).
 
-## What will this give?
+## What would this give?
 
-* I would be able to do more work (and more organized work) on reviewing ecosystem packages security by me. And probably, more reports.
-* I would be able to do more work on improving Node.js ecosystem security at a whole, from various directions.
 * More work on [Gzemnid](https://github.com/ChALkeR/Gzemnid) the ecosystem analysis toolset — it needs some crucial features.
-* More time for me to spend on sending patches, doing code review and other related activity.
+* More time for me to spend on inspecting API usage, sending patches, doing code review and other related activity.
+* I would be able to do more work on improving Node.js ecosystem security at a whole, from various directions.
+* I would be able to do more work (and more organized work) on reviewing ecosystem packages security. And probably, more reports.
 * From the personal point of view — this will help me concentrate on working on things that I love doing (FLOSS and community/ecosystem issues) instead of doing things that I like less, while still being able to pay my bills. That would make me a happier person.
-* The burn-out that could be observed on my [GitHub activity](https://github.com/ChALkeR/) over September-December was probably caused by the ratio of effort and time that I devoted to making the ecosystem better to the feedback that I received on that. If this fundraiser succeeds, it would provide me positive reinforcement that I need to keep going. _(Any other positive reinforcement would be also nice)._ This is one of the most significant reasons why I'm finally starting a personal fundraiser.
+* The burn-out that could be observed on my [GitHub activity](https://github.com/ChALkeR/) over September-December was probably caused by the ratio of effort and time that I devoted to making the ecosystem better to the feedback that I received on that from parties involved. If this fundraiser succeeds, it would provide me positive reinforcement that I need to keep going. This is one of the most significant reasons why I'm finally starting a personal fundraiser.
 
 ## Contacts
 
