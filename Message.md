@@ -1,6 +1,6 @@
 # Hi, I'm Nikita
 
-![]()
+<img src="/media/Nikita.crop.jpg" width="512" />
 
 The FLOSS community/ecosystem work that I do online is currently not paid for by any company or organization, I do that solely in my free time.
 
