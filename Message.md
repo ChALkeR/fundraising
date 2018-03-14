@@ -33,10 +33,10 @@ In future, I am planning to:
 * find and report more security-related issues and perform more audits,
 * spend more time taking a look at issues and pull requests,
 * investigate building an automated tool that would find and help report common issues and mistakes in Node.js ecosystem libraries,
-* give some more love to QmlWeb,
+* give some more love to [QmlWeb](https://github.com/qmlweb/qmlweb),
 * write some more notes about common security issues in the ecosystem.
 
-This fundraiser, if it succeeds, might help to to achieve the above goals faster.
+This fundraiser, if it succeeds, might help to to achieve the above goals faster and with more significant results.
 
 Other things that I probably would have devoted some time to if I had more of that time is some investigation of secure and usable means of communication ([ref](https://github.com/ChALkeR/whinings/blob/master/Instant-messaging.md)).
 
