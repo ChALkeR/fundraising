@@ -20,7 +20,7 @@ Over the recent time, I:
 * have been trying hard to estimate the impact of some semver-major API changes on Node.js side,
 * made some number of general issue an PR [comments](https://github.com/search?q=org%3Anodejs+commenter%3AChALkeR) and reviews for Node.js, and have been doing some usual CTC/TSC member stuff.
 
-Most of that is shared on GitHub (my username is [@ChALkeR](https://github.com/ChALkeR), but a significant part is not:
+Most of that is shared on GitHub (my username is [@ChALkeR](https://github.com/ChALkeR)), but a significant part is not:
 
 * private repos — e.g. preliminary private notes, the tooling used to perform attacks on npm (shared with npm), some other stuff shared with affected projects and parties,
 * private emails / DMs — e.g. most security-related reports,
