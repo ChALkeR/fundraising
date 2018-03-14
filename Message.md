@@ -8,7 +8,7 @@ My current areas of interest include Node.js ecosystem and Node.js API, general 
 
 In the Node.js-related area, I am interested mostly in locating and addressing various issues in the Node.js ecosystem, with an accent on (but not limited to) security and stability issues.
 
-That takes about 20-30% of what could be a full-time job currently. I did receive several bounties for security issues from e.g. GitHub, but I try to optimize for impact and not for bounties, and most of my work is voluntary. For example, during the main phase of those npm credentials leaks / reuse stories, I was asked by several people independently how did I fund the research. The honest answer was that I didn't, and I performed that solely in my free time. There are also direct expenses in some of those cases — i.e. I am paying for hosting and processing power for some of the tasks.
+That takes about 20-30% of what could be a full-time job currently. I did receive several bounties for security issues from e.g. GitHub, but I try to optimize for impact and not for bounties, and most of my work is voluntary. During the main phase of those npm credentials leaks / reuse stories, I was asked by several people independently how did I fund the research — the honest answer was that I didn't, and I performed that solely in my free time. There are also direct expenses in some of those cases — i.e. I am paying for hosting and processing power for some of the tasks, and for other things like coworking space access.
 
 Over the recent time, I:
 
