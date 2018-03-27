@@ -6,9 +6,11 @@ This repository also hosts the primary copy of the fundraiser message, it could 
 
 ## Thanks
 
-There are no one here yet, you [could be the first](https://www.patreon.com/ChALkeR)!
+#### Supporters (≥$10/month)
 
-<sub>This list is going to have a layout according to the [template](templates/Thanks.template.md), but that might change.</sub>
+[@grnd](https://github.com/grnd)
+
+<sub>This list has a layout according to the [template](templates/Thanks.template.md), but that might change.</sub>
 
 ## Contacts
 
