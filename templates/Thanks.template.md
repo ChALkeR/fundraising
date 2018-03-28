@@ -20,6 +20,7 @@
 </table>
 
 #### Gold (≥$500/month)
+
 <table>
  <tr>
   <td><a href="http://example.com">
@@ -46,10 +47,35 @@
 </table>
 
 #### Silver (≥$200/month)
-<a href="https://example.com/" title="Example example"><img src="https://imgplaceholder.com/240x160/962e2e/d44a4a/ion-android-favorite" width="120" height="80" alt="" /></a>
-<a href="https://example.com/" title="Example example"><img src="https://imgplaceholder.com/240x160/962e2e/d44a4a/ion-android-favorite" width="120" height="80" alt="" /></a>
-<a href="https://example.com/" title="Example example"><img src="https://imgplaceholder.com/240x160/962e2e/d44a4a/ion-android-favorite" width="120" height="80" alt="" /></a>
-<a href="https://example.com/" title="Example example"><img src="https://imgplaceholder.com/240x160/962e2e/d44a4a/ion-android-favorite" width="120" height="80" alt="" /></a>
+
+<table>
+ <tr>
+  <td><a href="http://example.com">
+    <img src="https://imgplaceholder.com/240x160/962e2e/d44a4a/ion-android-favorite" width="120" height="80" alt="" />
+    <br><sub>Example example</sub>
+  </a></td>
+  <td><a href="http://example.com">
+    <img src="https://imgplaceholder.com/240x160/962e2e/d44a4a/ion-android-favorite" width="120" height="80" alt="" />
+    <br><sub>Example example</sub>
+  </a></td>
+  <td><a href="http://example.com">
+    <img src="https://imgplaceholder.com/240x160/962e2e/d44a4a/ion-android-favorite" width="120" height="80" alt="" />
+    <br><sub>Example example</sub>
+  </a></td>
+  <td><a href="http://example.com">
+    <img src="https://imgplaceholder.com/240x160/962e2e/d44a4a/ion-android-favorite" width="120" height="80" alt="" />
+    <br><sub>Example example</sub>
+  </a></td>
+  <td><a href="http://example.com">
+    <img src="https://imgplaceholder.com/240x160/962e2e/d44a4a/ion-android-favorite" width="120" height="80" alt="" />
+    <br><sub>Example example</sub>
+  </a></td>
+  <td><a href="http://example.com">
+    <img src="https://imgplaceholder.com/240x160/962e2e/d44a4a/ion-android-favorite" width="120" height="80" alt="" />
+    <br><sub>Example example</sub>
+  </a></td>
+ </tr>
+</table>
 
 #### Bronze (≥$100/month)
 
