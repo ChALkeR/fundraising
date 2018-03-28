@@ -8,7 +8,7 @@ This repository also hosts the primary copy of the fundraiser message, it could 
 
 #### Supporters (≥$10/month)
 
-[@grnd](https://github.com/grnd)
+[Danny Grander](https://github.com/grnd).
 
 <sub>This list has a layout according to the [template](templates/Thanks.template.md), but that might change.</sub>
 

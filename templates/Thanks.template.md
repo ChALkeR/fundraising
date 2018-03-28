@@ -97,18 +97,43 @@
 
 #### Large supporters (≥$20/month)
 
-<a href="https://github.com/ghost" title="Ghost ghost (@ghost)"><img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" /></a>
-<a href="https://github.com/ghost" title="Ghost ghost (@ghost)"><img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" /></a>
-<a href="https://github.com/ghost" title="Ghost ghost (@ghost)"><img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" /></a>
-<a href="https://github.com/ghost" title="Ghost ghost (@ghost)"><img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" /></a>
-<a href="https://github.com/ghost" title="Ghost ghost (@ghost)"><img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" /></a>
-<a href="https://github.com/ghost" title="Ghost ghost (@ghost)"><img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" /></a>
-<a href="https://github.com/ghost" title="Ghost ghost (@ghost)"><img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" /></a>
-<a href="https://github.com/ghost" title="Ghost ghost (@ghost)"><img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" /></a>
-<a href="https://github.com/ghost" title="Ghost ghost (@ghost)"><img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" /></a>
-<a href="https://github.com/ghost" title="Ghost ghost (@ghost)"><img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" /></a>
+<table>
+ <tr>
+  <td><a href="https://github.com/ghost">
+    <img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" />
+    <br><sub>@ghost</sub>
+  </a></td>
+  <td><a href="https://github.com/ghost">
+    <img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" />
+    <br><sub>Ghost ghost</sub>
+  </a></td>
+  <td><a href="https://github.com/ghost">
+    <img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" />
+    <br><sub>Ghost ghost</sub>
+  </a></td>
+  <td><a href="https://github.com/ghost">
+    <img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" />
+    <br><sub>@ghost</sub>
+  </a></td>
+  <td><a href="https://github.com/ghost">
+    <img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" />
+    <br><sub>@ghost</sub>
+  </a></td>
+  <td><a href="https://github.com/ghost">
+    <img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" />
+    <br><sub>@ghost</sub>
+  </a></td>
+  <td><a href="https://github.com/ghost">
+    <img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" />
+    <br><sub>Ghost ghost</sub>
+  </a></td>
+  <td><a href="https://github.com/ghost">
+    <img src="https://imgplaceholder.com/160x160/cccccc/757575/fa-user" width="80" height="80" alt="" />
+    <br><sub>Ghost ghost</sub>
+  </a></td>
+ </tr>
+</table>
 
 #### Supporters (≥$10/month)
 
-[@ghost](https://github.com/ghost), [@ghost](https://github.com/ghost), [@ghost](https://github.com/ghost), [@ghost](https://github.com/ghost), [@ghost](https://github.com/ghost), [@ghost](https://github.com/ghost),
-[@ghost](https://github.com/ghost), [@ghost](https://github.com/ghost), [@ghost](https://github.com/ghost), [@ghost](https://github.com/ghost), [@ghost](https://github.com/ghost), [@ghost](https://github.com/ghost)
+[Ghost ghost](https://github.com/ghost), [Ghost ghost](https://github.com/ghost), [Ghost ghost](https://github.com/ghost), [Ghost ghost](https://github.com/ghost), [Ghost ghost](https://github.com/ghost), [Ghost ghost](https://github.com/ghost), [Ghost ghost](https://github.com/ghost), [Ghost ghost](https://github.com/ghost), [Ghost ghost](https://github.com/ghost).
